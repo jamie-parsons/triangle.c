@@ -4,7 +4,7 @@
 //put funtion here
 
 bool valid_triangle (int a, int b, int c);
-
+ 
 int main(void)
 {
     printf("enter an integer:\n");
